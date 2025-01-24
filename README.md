@@ -1,6 +1,6 @@
 ﻿# Windows-11-Activator
 
-This repository contains a simple batch file that serves as a Windows 10 activator. It is designed to help users activate their Windows 10 operating system easily and efficiently.
+This repository contains a simple batch file that serves as a Windows 11 activator. It is designed to help users activate their Windows 11 operating system easily and efficiently.
 
 ## Disclaimer
 
@@ -27,7 +27,7 @@ This repository contains a simple batch file that serves as a Windows 10 activat
    - Follow the on-screen instructions.
 
 3. **Activation Process**
-   - The script will attempt to activate your Windows 10. Please be patient as this may take a few minutes.
+   - The script will attempt to activate your Windows 11. Please be patient as this may take a few minutes.
    - Once completed, you will see a confirmation message if the activation was successful.
 
 ## How It Works
