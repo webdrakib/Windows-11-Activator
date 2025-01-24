@@ -8,7 +8,7 @@ This repository contains a simple batch file that serves as a Windows 10 activat
 
 ## Requirements
 
-- Windows 10 operating system
+- Windows 11 operating system
 - Administrator privileges
 
 ## Features
