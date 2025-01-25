@@ -73,7 +73,7 @@ cscript slmgr.vbs /ato
 
 :end
 ECHO THANKS FOR USING A 
-ECHO WebdRakib PRODUCT
+ECHO WEBD_RAKIB PRODUCT
 ECHO.
 set /P c=Would You Like to quit[Y/N]?
 CLS
